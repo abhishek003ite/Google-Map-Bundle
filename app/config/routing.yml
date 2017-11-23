@@ -1,0 +1,7 @@
+google_api:
+    resource: "@GoogleApiBundle/Resources/config/routing.xml"
+    prefix:   /map
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
