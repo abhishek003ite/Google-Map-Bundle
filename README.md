@@ -1,4 +1,23 @@
-googleMapProject
+Google Map Bundle
 ================
 
-A Symfony project created on November 23, 2017, 6:30 am.
+Version 3.3.10
+
+Useful Information
+------------------
+
+Clone Project
+--------------
+
+git clone https://gitlab.com/abhishek.shrivastava1987/GoogleMapBundle.git
+
+Install composer dependancies
+-----------------------------
+
+composer install
+
+
+Run the project by buildin server
+---------------------------------
+
+php bin/console server:run
